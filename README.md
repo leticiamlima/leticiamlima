@@ -9,7 +9,8 @@ My background includes scientific computing, quantitative analysis, and data pro
 - **Interests:** Data Science, Machine Learning, AI
 
 ### Personal Projects
-- [Astro Data Analysis](https://github.com/leticiamlima/Astro-data-analysis) — Exploratory data analysis using SDSS DR17 data.
+- [Astro Data Analysis] - Exploratory data analysis using SDSS DR17 data.
+- [Personal Book Recommender] - Personalized book recommendation system based on reading preferences
 
 ### Education
 - M.Sc. in Astronomy (in progress) - Observatório Nacional (ON/MCTI)
